@@ -41,7 +41,8 @@ Número 2 - Raiz Quadrada 1.4142135623730951
 Número 3 - Raiz Quadrada 1.7320508075688772
 ...
 Número 100 - Raiz Quadrada 10.0
-​```
+```
+
 
 ## 🧠 Conceitos praticados
 
